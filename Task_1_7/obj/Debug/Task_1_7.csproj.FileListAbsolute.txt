@@ -1,0 +1,6 @@
+D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.exe.config
+D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.exe
+D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.pdb
+D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.csprojResolveAssemblyReference.cache
+D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.exe
+D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.pdb
