@@ -4,3 +4,9 @@ D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.pdb
 D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.csprojResolveAssemblyReference.cache
 D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.exe
 D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.pdb
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.dll.config
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.dll
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7\bin\Debug\Task_1_7.pdb
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.csprojResolveAssemblyReference.cache
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.dll
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7\obj\Debug\Task_1_7.pdb

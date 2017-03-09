@@ -29,11 +29,11 @@
                         <ComboBox Grid.Column="1" Grid.Row="1" ItemsSource="{Binding SortTypes}" SelectedItem="{Binding SelectedSortType}" />
                         <ComboBox Grid.Column="1" Grid.Row="2" ItemsSource="{Binding MethodTypes}" SelectedItem="{Binding SelectedMethodType}" />
                     </Grid>
-                    <Button Content="Sort" Command="{Binding Sort}"/>
+                    <Button Content="Sort" Command="{Binding Sort}" Margin="2" />
                 </StackPanel>
           
                 <StackPanel Grid.Row="1" VerticalAlignment="Center">
-                    <Button Content="Generate items" Command="{Binding GenerateItems}" />
+                    <Button Content="Generate items" Command="{Binding GenerateItems}" Margin="2" />
                 </StackPanel>
             
             </Grid>

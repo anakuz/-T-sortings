@@ -21,12 +21,12 @@ namespace Task_1_7
     {
         public static void QuickSort<T>(T[] array, Comparison<T> comparator)
         {
-            Quicksort1.Sort(array, comparator);
+            DelegateQuicksort.Sort(array, comparator);
         }
 
         public static void QuickSort<T>(T[] array) where T : IComparable<T>
         {
-            Quicksort2.Sort(array);
+            RestrictionQuicksort.Sort(array);
         }
 
         public static void BubbleSort<T>(T[] array) where T : IComparable<T>
@@ -38,9 +38,7 @@ namespace Task_1_7
                 {
                     if (array[j].CompareTo(array[j + 1]) > 0)
                     {
-                        var temp = array[j];
-                        array[j] = array[j + 1];
-                        array[j + 1] = temp;
+                        DelegateQuicksort.Swap(array, j, j + 1);
                     }
                 }
             }
@@ -55,9 +53,7 @@ namespace Task_1_7
                 {
                     if (comparator(array[j], (array[j + 1])) > 0)
                     {
-                        var temp = array[j];
-                        array[j] = array[j + 1];
-                        array[j + 1] = temp;
+                        DelegateQuicksort.Swap(array, j, j + 1);
                     }
                 }
             }
@@ -94,13 +90,9 @@ namespace Task_1_7
         }
     }
 
-
-
-
-
-    static class Quicksort1
+    static class DelegateQuicksort
     {
-        private static void Swap<T>(T[] array, int left, int right)
+        public static void Swap<T>(T[] array, int left, int right)
         {
             var temp = array[right];
             array[right] = array[left];
@@ -122,11 +114,17 @@ namespace Task_1_7
             while (endIndex >= startIndex)
             {
                 if (comparer(array[startIndex], array[pivot]) >= 0 && comparer(array[endIndex], array[pivot]) < 0)
+                {
                     Swap(array, startIndex, endIndex);
+                }
                 else if (comparer(array[startIndex], array[pivot]) >= 0)
+                {
                     endIndex--;
+                }
                 else if (comparer(array[endIndex], array[pivot]) < 0)
+                {
                     startIndex++;
+                }
                 else
                 {
                     endIndex--;
@@ -137,13 +135,17 @@ namespace Task_1_7
             Swap(array, pivot, endIndex);
             pivot = endIndex;
             if (pivot > left)
+            {
                 Sort(array, left, pivot, comparer);
+            }
             if (right > pivot + 1)
+            {
                 Sort(array, pivot + 1, right, comparer);
+            }
         }
     }
 
-    static class Quicksort2
+    static class RestrictionQuicksort
     {
         private static void Swap<T>(T[] array, int left, int right) where T : IComparable<T>
         {
@@ -167,11 +169,17 @@ namespace Task_1_7
             while (endIndex >= startIndex)
             {
                 if (array[startIndex].CompareTo(array[pivot]) >= 0 && array[endIndex].CompareTo(array[pivot]) < 0)
+                {
                     Swap(array, startIndex, endIndex);
+                }
                 else if (array[startIndex].CompareTo(array[pivot]) >= 0)
+                {
                     endIndex--;
+                }
                 else if (array[endIndex].CompareTo(array[pivot]) < 0)
+                {
                     startIndex++;
+                }
                 else
                 {
                     endIndex--;
@@ -181,10 +189,15 @@ namespace Task_1_7
 
             Swap(array, pivot, endIndex);
             pivot = endIndex;
+
             if (pivot > left)
+            {
                 Sort(array, left, pivot);
+            }
             if (right > pivot + 1)
+            {
                 Sort(array, pivot + 1, right);
+            }
         }
     }
 }

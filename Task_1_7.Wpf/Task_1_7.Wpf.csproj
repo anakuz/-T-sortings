@@ -53,10 +53,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Extensions.cs" />
+    <Compile Include="bl\Extensions.cs" />
     <Compile Include="Properties\Annotations.cs" />
-    <Compile Include="SortingEngine.cs" />
-    <Compile Include="ViewModel.cs" />
+    <Compile Include="bl\SortingEngine.cs" />
+    <Compile Include="bl\SortUtils.cs" />
+    <Compile Include="ui\ViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

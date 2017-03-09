@@ -13,12 +13,30 @@ D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.exe
 D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.pdb
 D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.exe
 D:\tutoring.Julie\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.pdb
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe.config
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.exe
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.pdb
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.pdb
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.dll
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.pdb
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.csprojResolveAssemblyReference.cache
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\MainWindow.baml
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\MainWindow.g.cs
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\App.g.cs
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf_MarkupCompile.cache
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.g.resources
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.Properties.Resources.resources
+D:\tutoring.Nastya\semestr 4\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.csproj.GenerateResource.Cache
+H:\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe.config
+H:\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.exe
+H:\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.pdb
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe.config
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.exe
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.pdb
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.pdb
-C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.exe
+C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.dll
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\bin\Debug\Task_1_7.pdb
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.csprojResolveAssemblyReference.cache
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\MainWindow.baml
@@ -28,3 +46,9 @@ C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf_MarkupCompil
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.g.resources
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.Properties.Resources.resources
 C:\Users\xeon\Desktop\Semestr_4\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.csproj.GenerateResource.Cache
+C:\Users\xeon\Desktop\4sem\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe.config
+C:\Users\xeon\Desktop\4sem\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.exe
+C:\Users\xeon\Desktop\4sem\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.pdb
+C:\Users\User\Source\Repos\4sem\Task_1_7.Wpf\bin\Debug\Task_1_7.Wpf.exe.config
+C:\Users\User\Source\Repos\4sem\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.exe
+C:\Users\User\Source\Repos\4sem\Task_1_7.Wpf\obj\Debug\Task_1_7.Wpf.pdb
